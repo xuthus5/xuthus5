@@ -12,7 +12,6 @@
 
 - 💻 &nbsp;
   ![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=007396)
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
