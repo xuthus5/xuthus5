@@ -12,6 +12,7 @@
 
 - 💻 &nbsp;
   ![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
@@ -19,6 +20,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
+  ![Etcd](https://img.shields.io/badge/-etcd-333333?style=flat&logo=etcd)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
@@ -31,6 +33,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xuthus5&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuthus5&theme=buefy&layout=compact" />
 </a>
+
+[![Young Xu's Activity Graph](https://activity-graph.herokuapp.com/graph?username=xuthus5&custom_title=Young%20Xu's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://xuthus.cc)
 
 <!--
 **xuthus5/xuthus5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
