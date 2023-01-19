@@ -31,8 +31,8 @@
 <br/>
 
 <a href="https://github.com/xuthus5">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xuthus5&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuthus5&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-xuthus5.vercel.app/api?username=xuthus5&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-xuthus5.vercel.app/api/top-langs/?username=xuthus5&theme=buefy&layout=compact" />
 </a>
 
 [![Young Xu's Activity Graph](https://activity-graph.herokuapp.com/graph?username=xuthus5&custom_title=Young%20Xu's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://xuthus.cc)
