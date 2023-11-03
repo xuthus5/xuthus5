@@ -35,8 +35,6 @@
   <img height="180em" src="https://github-readme-stats-xuthus5.vercel.app/api/top-langs/?username=xuthus5&theme=buefy&layout=compact" />
 </a>
 
-[![Young Xu's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=xuthus5&custom_title=Young%20Xu's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://xuthus.cc)
-
 <!--
 **xuthus5/xuthus5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
