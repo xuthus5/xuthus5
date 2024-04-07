@@ -30,11 +30,6 @@
 
 <br/>
 
-<a href="https://github.com/xuthus5">
-  <img height="180em" src="https://github-readme-stats-xuthus5.vercel.app/api?username=xuthus5&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-xuthus5.vercel.app/api/top-langs/?username=xuthus5&theme=buefy&layout=compact" />
-</a>
-
 <!--
 **xuthus5/xuthus5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
