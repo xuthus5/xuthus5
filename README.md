@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; FOSS enthusiast.
+- 🤔 &nbsp; FOSS enthusiast.![GitHub User's stars](https://img.shields.io/github/stars/xuthus5)
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -19,5 +19,3 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 <br/>
-
-Number of stars I earned: ![GitHub User's stars](https://img.shields.io/github/stars/xuthus5)
