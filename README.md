@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; FOSS enthusiast.
-- 🎓 &nbsp; Graduated from Hebei University, study Computer Science and Information Security.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
