@@ -9,11 +9,9 @@
 
 - 💻 &nbsp;
   ![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 - 🛢 &nbsp;
-  ![Pulsar](https://img.shields.io/badge/Pulsar-00BFFF)
-  ![openGemini](https://img.shields.io/badge/openGemini-DC143C)
+  [![Pulsar](https://img.shields.io/badge/Pulsar-00BFFF)](https://github.com/apache/pulsar)
+  [![openGemini](https://img.shields.io/badge/openGemini-DC143C)](https://github.com/openGemini/openGemini)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
